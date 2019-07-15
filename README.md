@@ -1,5 +1,5 @@
 # scrapy_imgs_python
-Script para varrer uma URL e buscar por componentes do tipo <img>
+Script para varrer uma URL e buscar por componentes do tipo imagem no HTML.
 
 
 usage: request.py [-h] --url URL --quant QUANT
